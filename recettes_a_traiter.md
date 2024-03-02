@@ -1,8 +1,8 @@
 # A mettre au propre
 ## Salade avocat pamplemousse crevette
-2 avocats 
-2 pamplemousse
-500 g de crevettes
+ - 2 avocats
+ - 2 pamplemousse
+ - 500 g de crevettes
 
 -> convient pour le van
 
@@ -24,6 +24,7 @@ Saumon cuit ou saumon fumé ?
 
 # Autres idées
  - Gâteau aux noix
+ - https://www.marmiton.org/recettes/recette_chili-con-carne-facile_15415.aspx
  - Salade artichaut saumon ->Van
 
 
