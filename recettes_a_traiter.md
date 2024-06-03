@@ -24,6 +24,10 @@ Toutes les salades doivent convenir pour le van
 Chou blanc, chou romanesco (On peut les cuire en van)
 Saumon cuit ou saumon fumé ?
 
+# Dessert
+https://www.marmiton.org/recettes/recette_gateau-au-chocolat-fondant-rapide_166352.aspx
+https://www.marmiton.org/recettes/recette_gateau-moelleux-aux-fraises-facile_228481.aspx
+
 
 # Autres idées
 ## Vrac
