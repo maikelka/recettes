@@ -1,6 +1,6 @@
 
 
-
+```
 @startgantt
 
 project starts at 2025-07-01
@@ -52,7 +52,6 @@ projectscale monthly zoom 1.3
 [MID\nTRAIN\n(40%)] as [tf_p5_mid_train] happens 2027-01-17 and is colored in darkturquoise and displays on same row as [tf_p5_t0]
 [END\nTRAIN\n(40%)] as [tf_p5_end_train] happens 2027-02-17 and is colored in darkturquoise and displays on same row as [tf_p5_t0]
 
-
-
-
 @endgantt
+```
+
