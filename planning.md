@@ -1,6 +1,6 @@
 
 
-```
+```plantuml
 @startgantt
 
 project starts at 2025-07-01
