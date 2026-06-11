@@ -2,7 +2,9 @@
 
 
 @startgantt
+
 project starts at 2025-07-01
+
 projectscale monthly zoom 1.3
 
 
